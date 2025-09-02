@@ -4,27 +4,27 @@ I developed a Smart Banking Chatbot Application using Python and Django, designe
 
 🔑 **Features**
 
-End-to-End Functionality: User registration, loan application, and real-time chatbot communication.
+**End-to-End Functionality**: User registration, loan application, and real-time chatbot communication.
 
-AI-Powered Chatbot: Integrated Natural Language Processing (NLP) to handle customer queries with 85%+ accuracy.
+**AI-Powered Chatbot**: Integrated Natural Language Processing (NLP) to handle customer queries with 85%+ accuracy.
 
-Secure Backend: Developed scalable APIs and used MySQL to manage user profiles, chat history, and loan status.
+**Secure Backend**: Developed scalable APIs and used MySQL to manage user profiles, chat history, and loan status.
 
-Admin Dashboard: Provides insights into user engagement and loan application metrics.
+**Admin Dashboard**: Provides insights into user engagement and loan application metrics.
 
-Operational Efficiency: Reduced manual interventions by ~60% through automation.
+**Operational Efficiency**: Reduced manual interventions by ~60% through automation.
 
-Team Collaboration: Successfully deployed and tested in a simulated banking environment for a smooth user experience.
+**Team Collaboration**: Successfully deployed and tested in a simulated banking environment for a smooth user experience.
 
 🛠️ **Tech Stack**
 
-Backend: Python, Django
+**Backend**: Python, Django
 
-Database: MySQL
+**Database**: MySQL
 
-NLP: Natural Language Toolkit (NLTK) / SpaCy (or whichever you used)
+**NLP**: Natural Language Toolkit (NLTK) / SpaCy (or whichever you used)
 
-Frontend: HTML, CSS, JavaScript (if applicable)
+**Frontend**: HTML, CSS, JavaScript (if applicable)
 
 📈 **Impact**
 
