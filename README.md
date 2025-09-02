@@ -1,8 +1,8 @@
-Smart Banking Chatbot Application
+**Smart Banking Chatbot Application**
 
 I developed a Smart Banking Chatbot Application using Python and Django, designed to improve digital banking services and provide seamless customer support. This project focuses on automating routine banking operations, reducing manual interventions, and offering 24/7 assistance to users.
 
-🔑 Features
+🔑 **Features**
 
 End-to-End Functionality: User registration, loan application, and real-time chatbot communication.
 
@@ -16,7 +16,7 @@ Operational Efficiency: Reduced manual interventions by ~60% through automation.
 
 Team Collaboration: Successfully deployed and tested in a simulated banking environment for a smooth user experience.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Backend: Python, Django
 
@@ -26,7 +26,7 @@ NLP: Natural Language Toolkit (NLTK) / SpaCy (or whichever you used)
 
 Frontend: HTML, CSS, JavaScript (if applicable)
 
-📈 Impact
+📈 **Impact**
 
 Improved customer service by automating routine support queries.
 
